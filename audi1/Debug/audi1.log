@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(56,18): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(77,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(77,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(77,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(77,10): message : этот аргумент используется в качестве размера буфера
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(78,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(78,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(78,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Кирилл\source\repos\audi1\audi1\main.c(78,10): message : этот аргумент используется в качестве размера буфера
+  audi1.vcxproj -> C:\Users\Кирилл\source\repos\audi1\Debug\audi1.exe
